@@ -8,11 +8,6 @@ body {
   margin: 0;
 }
 
-nav {
-  background-color: white;
-  padding: 8px 16px;
-}
-
 p {
   margin: 0;
 }
@@ -129,7 +124,7 @@ background-color: #1f1f1f;
 }
 .hero-content input {
     width: 100%;
-    max-width 500px;
+    max-width: 500px;
     }
 
     .trending {
@@ -142,7 +137,7 @@ background-color: #1f1f1f;
 
     .sub-nav {
         display: flex;
-        justify-content: space-betwwen;
+        justify-content: space-between;
         align-items: center;
         max-width: 800px;
         margin: 0 auto;
