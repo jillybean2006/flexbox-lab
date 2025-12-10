@@ -109,7 +109,7 @@ nav {
     gap: 8px;
 }
 
-.hero {
+#hero {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -122,12 +122,12 @@ background-color: #1f1f1f;
  align-items: center;
  
 }
-.hero-content input {
+#hero-content input {
     width: 100%;
     max-width: 500px;
     }
 
-    .trending {
+    #trending {
         display: flex;
         align-items: center;
         gap: 12px;
@@ -135,7 +135,7 @@ background-color: #1f1f1f;
         justify-content: center;    
     }
 
-    .sub-nav {
+    #sub-nav {
         display: flex;
         justify-content: space-between;
         align-items: center;
